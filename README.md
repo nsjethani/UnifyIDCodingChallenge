@@ -15,3 +15,5 @@ This challenge is programming language agnostic! Pick whichever language you're 
 - An RSA key pair (We would discourage you from implementing your own textbook keypair implementation based on exponents and GCD, 100 points)
 
 **I have completed RGB bitmap picture of 128x128 pixels** 
+
+I have generated 128X3 random numbers to generate the image. This can be done via generating 128X128X3 random numbers , aa different pixel(Reg,Green,Blue) value for each pixel, the code of which has been commented in the source code as I had used my daily quota from random.org
