@@ -8,8 +8,10 @@ This challenge is programming language agnostic! Pick whichever language you're 
 
 2. Using these random numbers create one of the following, to get bonus points:
 
-- An RGB bitmap picture of 128x128 pixels. (70 points)
+**_- An RGB bitmap picture of 128x128 pixels. (70 points)_**
 
 - A white noise WAV sound sample of 3 seconds (70 points)
 
 - An RSA key pair (We would discourage you from implementing your own textbook keypair implementation based on exponents and GCD, 100 points)
+
+**I have completed RGB bitmap picture of 128x128 pixels** 
